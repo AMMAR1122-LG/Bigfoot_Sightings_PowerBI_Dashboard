@@ -45,13 +45,13 @@ The goal is to enable both enthusiasts and analysts to dive into the data and ex
 
 ---
 
-## 📁 File Structure
+## 📷 Preview
 
-- `Bigfoot Sightings - Final.pbix`  
-  The main Power BI file containing all visuals, data models, and transformations.
+Here’s a sneak peek into the interactive dashboard:
 
----
+![Dashboard Overview](images/dashboard-overview.png)
 
+![Dashboard Overview](images/dashboard-overview.png)
 ## 🚀 Getting Started
 
 To run the report:
