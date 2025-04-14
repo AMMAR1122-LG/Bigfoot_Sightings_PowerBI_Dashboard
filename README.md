@@ -17,6 +17,14 @@ The goal is to enable both enthusiasts and analysts to dive into the data and ex
 
 ---
 
+
+## 📷 Preview
+
+Here’s a sneak peek into the interactive dashboard:
+![Dashboard Overview](https://github.com/AMMAR1122-LG/Bigfoot_Sightings_PowerBI_Dashboard/blob/main/images/Bigfoot%20Dashboard.png)
+
+
+
 ## 📊 Key Features
 
 - **Geo-mapping of Sightings**  
@@ -45,13 +53,10 @@ The goal is to enable both enthusiasts and analysts to dive into the data and ex
 
 ---
 
-## 📷 Preview
 
-Here’s a sneak peek into the interactive dashboard:
+![Dashboard Overview](https://github.com/AMMAR1122-LG/Bigfoot_Sightings_PowerBI_Dashboard/blob/main/images/Bar%20Chart.png)
 
-![Dashboard Overview](images/dashboard-overview.png)
 
-![Dashboard Overview](images/dashboard-overview.png)
 ## 🚀 Getting Started
 
 To run the report:
